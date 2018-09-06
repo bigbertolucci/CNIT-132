@@ -20,12 +20,6 @@ nav a {
     font-weight: bold;
 }
 
-p {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
 div {
     width: 600px;
     margin: 5em auto;
@@ -37,5 +31,6 @@ a:hover {
 }
 
 i {
+    color: black;
     padding: 10px;
 }
