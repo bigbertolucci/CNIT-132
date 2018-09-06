@@ -1,5 +1,6 @@
 body {
     font-family: 'Lato', sans-serif;
+    text-align: center;
 }
 
 h1 {
@@ -9,7 +10,6 @@ h1 {
 
 nav {
     background: #eee;
-    text-align: center;
     padding: 40px;
 }
 
@@ -20,8 +20,22 @@ nav a {
     font-weight: bold;
 }
 
-.blocktext {
+p {
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+}
+
+
+div {
+    width: 600px;
+    margin: 5em auto;
+    border-radius: 1em;
+}
+
+a:hover {
+    text-decoration: underline;   
+}
+
+i {
+    padding: 10px;
 }
