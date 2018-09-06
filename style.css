@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
+
+nav {
+    background: #eee;
+    text-align: center;
+    padding: 40px;
+}
+
+nav a {
+    padding: 10px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+.blocktext {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
